@@ -57,6 +57,7 @@ nav {
     z-index: 10;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
     padding: 10px 20px;
+    position: fixed;
 }
 
 .nav__items {
