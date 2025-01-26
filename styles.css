@@ -78,7 +78,7 @@ nav button
 .nav__container
 {
     display: flex;
-    padding: 0 30px;
+    padding: 0 20px;
     align-items: center;
     justify-content: space-between;
     background: linear-gradient(90deg, #0056b3, #003d80);
@@ -424,6 +424,7 @@ footer
         background: transparent;
         color: var(--color-white);
         cursor: pointer;
+        padding: 0 10px;
     }
 
     nav button#close__nav-btn {
